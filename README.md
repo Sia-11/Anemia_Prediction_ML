@@ -1,6 +1,6 @@
 # Anemia Prediction
 
-Anemia Prediction is a Python project that aims to predict whether a patient has anemia based on specific health parameters. This project includes a machine learning model and a simple user interface for making predictions.
+Anemia Prediction is a Python project that aims to predict whether a patient has anemia based on specific health parameters. This project includes a machine-learning model and a simple user interface for making predictions.
 
 ## Table of Contents
 - [Overview](#overview)
@@ -8,7 +8,6 @@ Anemia Prediction is a Python project that aims to predict whether a patient has
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Overview
@@ -25,7 +24,7 @@ Anemia is a common health condition characterized by a deficiency of red blood c
 
 To get started with this project, follow these steps:
 
-1. Clone the repository to your local machine: ``
+1. Clone the repository to your local machine: `https://github.com/Sia-11/Anemia_Prediction_ML.git`
 
 2. Set up a virtual environment for the project and install the required packages.
 
@@ -52,11 +51,7 @@ To use this project, follow these steps:
 1. Run the Anemia Prediction script as described in the "Getting Started" section.
 2. Input patient data when prompted.
 3. Receive the prediction result, indicating whether the patient has anemia.
-
-## Contributing
-
-Contributions to this project are welcome. Feel free to submit issues, feature requests, or pull requests.
-
+   
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
